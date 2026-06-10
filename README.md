@@ -32,6 +32,19 @@ Fourth-year Data Science & AI student at UCAS building end-to-end ML systems —
 
 ## Featured Projects
 
+### 🔍 [CV QA Agent](https://github.com/Fatma-Alhabbash/CV_QA_Agent)
+An AI agent that answers questions about my CV using LLMs, vector databases, and Retrieval-Augmented Generation.
+- **Stack:** Python · LLMs · Vector Databases · RAG · Agentic AI
+
+---
+
+### 🔍 [Ros2 Maze Navigation](https://github.com/Fatma-Alhabbash/ros2_maze_project)
+ROS 2 Maze Navigation using the Potential Field Method. featuring autonomous robot navigation in Gazebo Sim with obstacle avoidance and local minima recovery.
+
+- **Stack:** Python · ROS 2
+
+---
+
 ### 📰 [Fake News Detection Using Machine Learning](https://github.com/Fatma-Alhabbash/Fake-News-detection-Project)
 Built an Arabic fake news classifier on 5,352 news articles (including Aljazeera) using NLP preprocessing — ISRI stemming, lemmatization, TF-IDF — and Logistic Regression.
 - **Accuracy:** 92.62% | F1: 0.95 (real), 0.87 (fake)
@@ -45,11 +58,7 @@ An intelligent chatbot that advises UCAS students on the Data Science & AI progr
 
 ---
 
-### 🔍 [CV QA Agent](https://github.com/Fatma-Alhabbash/CV_QA_Agent)
-An AI agent that answers questions about my CV using LLMs, vector databases, and Retrieval-Augmented Generation.
-- **Stack:** Python · LLMs · Vector Databases · RAG · Agentic AI
 
----
 
 ## Highlights
 
