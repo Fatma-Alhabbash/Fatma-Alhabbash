@@ -52,7 +52,7 @@ Applied the full KDD process on 1M hepatitis patient records to predict survival
 
 ---
 
-### 🔍 [CV QA Agent](https://github.com/Fatma-Alhabbash/Fake-News-detection-Project](https://github.com/Fatma-Alhabbash/CV_QA_Agent)
+### 🔍 [CV QA Agent](https://github.com/Fatma-Alhabbash/CV_QA_Agent)
 An AI agent that answers questions about my CV using LLMs, vector databases, and Retrieval-Augmented Generation.
 - **Stack:** Python · LLMs · Vector Databases · RAG · Agentic AI
 
