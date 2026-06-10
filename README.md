@@ -45,13 +45,6 @@ An intelligent chatbot that advises UCAS students on the Data Science & AI progr
 
 ---
 
-### 🏥 Hepatitis Survival Prediction
-Applied the full KDD process on 1M hepatitis patient records to predict survival outcomes. Trained and compared 7 ML and deep learning models.
-- **Best model:** CatBoost — **94.6% accuracy**
-- **Stack:** Python · Scikit-learn · EDA · Feature Engineering
-
----
-
 ### 🔍 [CV QA Agent](https://github.com/Fatma-Alhabbash/CV_QA_Agent)
 An AI agent that answers questions about my CV using LLMs, vector databases, and Retrieval-Augmented Generation.
 - **Stack:** Python · LLMs · Vector Databases · RAG · Agentic AI
