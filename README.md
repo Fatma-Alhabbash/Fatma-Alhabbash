@@ -69,7 +69,7 @@ An AI agent that answers questions about my CV using LLMs, vector databases, and
 
 ## Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fatma--alzahraaalhabbash-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fatma-alzahraaalhabbash/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fatma--alzahraaalhabbash-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fatma-alzahraa-alhabbash/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-fatmaalhabbash-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/fatmaalhabbash)
 [![Email](https://img.shields.io/badge/Email-fatemaalhabbash@gmail.com-green?style=flat&logo=gmail)](mailto:fatemaalhabbash@gmail.com)
 
